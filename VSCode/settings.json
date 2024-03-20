@@ -1,0 +1,30 @@
+{
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "editor.accessibilitySupport": "off",
+"editor.fontSize": 13,
+  "editor.largeFileOptimizations": false,
+  "editor.minimap.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+"files.autoSave": "onFocusChange",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.openRepositoryInParentFolders": "always",
+  "github.copilot.enable": {
+    "*": true,
+    "markdown": true,
+    "plaintext": false,
+    "scminput": false
+  },
+  "search.showLineNumbers": true,
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "workbench.activityBar.location": "top",
+  "workbench.iconTheme": "catppuccin-mocha",
+  "workbench.preferredLightColorTheme": "Kimbie Dark",
+  "terminal.integrated.env.osx": {
+    "CW_NEW_SESSION": "1"
+  },
+  "workbench.colorTheme": "Catppuccin Mocha"
+}
